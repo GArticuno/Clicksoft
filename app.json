@@ -22,8 +22,9 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+        "backgroundColor": "#50398C"
+      },
+      "package": "com.moonbeam.clicksoft"
     },
     "web": {
       "favicon": "./assets/favicon.png"
